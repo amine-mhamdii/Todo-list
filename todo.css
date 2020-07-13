@@ -1,0 +1,30 @@
+body{
+  background-image: url(https://www.plm.automation.siemens.com/media/global/fr/agile-sprint-board-kanban_tcm55-55805.jpg);
+  
+}
+h1{
+  text-transform: uppercase;
+  color: white;
+  font-style: italic;
+}
+.cont{
+  margin-top: 170px;
+  position: relative;
+  margin-left: 500px;
+}
+#btn{
+  background-color:#7ed6df;
+  color: #30336b;
+  width: 50px;
+}
+
+.remove{
+  background-color: pink;
+  cursor: pointer;
+  padding: 1px;
+  border: none;
+  margin-left: 10px;
+}
+li {
+  font-size: 25px;
+  }
